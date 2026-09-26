@@ -1,0 +1,31 @@
+WEBSITE RESMI PT NUHA BERKAH ABADI
+
+1. Unggah file index.html ke halaman utama (root) repository GitHub.
+2. Pastikan folder images juga berada di halaman utama repository.
+3. Masukkan gambar dengan nama persis berikut ke folder images:
+
+   salmon-portion.jpg
+   salmon-lempeng.jpg
+   dori-fillet-bl.jpg
+   dori-fillet-nbl.jpg
+   nila-fillet.jpg
+   gurami-fillet.jpg
+   lele-fillet.jpg
+   udang-kupas.jpg
+   cumi-ring.jpg
+   cumi-flower.jpg
+   tentang-perusahaan.jpg
+   logo-nuha-berkah-abadi.png
+
+4. Nama file harus memakai huruf kecil dan tanda hubung seperti daftar di atas.
+5. Aktifkan GitHub Pages melalui Settings > Pages > Deploy from a branch.
+6. Pilih branch main dan folder /(root), lalu tekan Save.
+7. Setelah website GitHub Pages tampil, masukkan nuhaberkahabadi.com pada
+   Settings > Pages > Custom domain.
+
+CATATAN
+- Gunakan gambar JPG/WebP berukuran sekitar 100–300 KB agar website cepat.
+- Tombol WhatsApp sudah aktif menggunakan nomor 082220404770.
+- Alamat dan peta Google Maps sudah ditampilkan pada bagian Hubungi Kami.
+- Logo resmi PT Nuha Berkah Abadi sudah terpasang pada navbar.
+- Website ini tidak membutuhkan Python, Streamlit, atau requirements.txt.
